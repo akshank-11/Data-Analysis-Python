@@ -5,11 +5,11 @@ This project explores the factors influencing hourly bike rental demand in Seoul
 
 ### Dataset Summary:
 The dataset includes 8,760 hourly records of bike rentals, weather conditions, and temporal features. It consists of 14 variables such as:
-Rented Bike Count: The target variable indicating the number of bikes rented per hour.
-Date and Hour: Temporal features to capture daily and hourly patterns.
-Weather Conditions: Variables such as temperature (°C), humidity (%), wind speed (m/s), visibility (m), and solar radiation (MJ/m²).
-Precipitation: Snowfall (cm) and rainfall (mm).
-Holiday Indicator: Whether the day is a holiday.
+- Rented Bike Count: The target variable indicating the number of bikes rented per hour.
+- Date and Hour: Temporal features to capture daily and hourly patterns.
+- Weather Conditions: Variables such as temperature (°C), humidity (%), wind speed (m/s), visibility (m), and solar radiation (MJ/m²).
+- Precipitation: Snowfall (cm) and rainfall (mm).
+- Holiday Indicator: Whether the day is a holiday.
 
 ### Objectives:
 Identify key factors influencing bike rental demand.
