@@ -35,4 +35,4 @@ Visualize temporal and weather-based rental patterns to derive actionable insigh
   - Rainfall and rented bike count.
   - Snowfall and rented bike count.
 
-(ANOVA and two-sample t-test)
+(ANOVA and Two-Sample t-Test)
