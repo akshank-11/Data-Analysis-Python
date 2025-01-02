@@ -1,4 +1,5 @@
 ## Analyzing Bike Rental Demand in Seoul
+### Team: Akshitha Shankar, Vahin Vuppalanchi, Ray Chang, Will Dannacher
 
 ### Overview:
 This project explores the factors influencing hourly bike rental demand in Seoul's bike-sharing system, Ddareungi (Seoul Bike). By analyzing weather conditions, temporal variables, and rental trends, the study aims to predict rental demand and provide actionable insights to ensure a stable bike supply across the city. The insights help optimize operations, reduce waiting times, and enhance user satisfaction.
