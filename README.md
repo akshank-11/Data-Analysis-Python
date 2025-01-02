@@ -19,6 +19,7 @@ Visualize temporal and weather-based rental patterns to derive actionable insigh
 ----------------------- Data Preprocessing ----------------------- 
 - Created dummy variables to convert categorical data into binary format
 - Converted climate-based columns into percentage for easier interpretation
+- Split the data ranges into bins to efficiently categorize them
 - Filtered data to include only relevant days
 - DateTime formatting
 - Calculated derived features based on categorical columns
