@@ -16,3 +16,23 @@ Holiday Indicator: Whether the day is a holiday.
 Identify key factors influencing bike rental demand.
 Build predictive models to estimate hourly rental counts.
 Visualize temporal and weather-based rental patterns to derive actionable insights.
+
+----------------------- Data Preprocessing ----------------------- 
+- Created dummy variables to convert categorical data into binary format
+- Converted climate-based columns into percentage for easier interpretation
+- Filtered data to include only relevant days
+- DateTime formatting
+- Calculated derived features based on categorical columns
+
+----------------------- Data Visualization ----------------------- 
+- Histograms, scatter plots, and box plots are used extensively to understand the distribution and relationships among variables
+- PairGrid is applied to examine pairwise relationships
+- Scatter plots with regression lines visualize the correlation between "Rented Bike Count" and factors like temperature, rainfall, and snowfall
+
+----------------------- Statistical Analysis ----------------------- 
+- Correlation coefficients and p-values for: 
+  - Temperature and rented bike count.
+  - Rainfall and rented bike count.
+  - Snowfall and rented bike count.
+
+(ANOVA and two-sample t-test)
