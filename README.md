@@ -1,5 +1,5 @@
 ## Analyzing Bike Rental Demand in Seoul
-### Team: Akshitha Shankar, Vahin Vuppalanchi, Ray Chang, Will Dannacher
+Team: Akshitha Shankar, Vahin Vuppalanchi, Ray Chang, Will Dannacher
 
 ### Overview:
 This project explores the factors influencing hourly bike rental demand in Seoul's bike-sharing system, Ddareungi (Seoul Bike). By analyzing weather conditions, temporal variables, and rental trends, the study aims to predict rental demand and provide actionable insights to ensure a stable bike supply across the city. The insights help optimize operations, reduce waiting times, and enhance user satisfaction.
@@ -17,7 +17,7 @@ Identify key factors influencing bike rental demand.
 Build predictive models to estimate hourly rental counts.
 Visualize temporal and weather-based rental patterns to derive actionable insights.
 
------------------------ Data Preprocessing ----------------------- 
+### Data Preprocessing 
 - Created dummy variables to convert categorical data into binary format
 - Converted climate-based columns into percentage for easier interpretation
 - Split the data ranges into bins to efficiently categorize them
@@ -25,12 +25,12 @@ Visualize temporal and weather-based rental patterns to derive actionable insigh
 - DateTime formatting
 - Calculated derived features based on categorical columns
 
------------------------ Data Visualization ----------------------- 
+### Data Visualization 
 - Histograms, scatter plots, and box plots are used extensively to understand the distribution and relationships among variables
 - PairGrid is applied to examine pairwise relationships
 - Scatter plots with regression lines visualize the correlation between "Rented Bike Count" and factors like temperature, rainfall, and snowfall
 
------------------------ Statistical Analysis ----------------------- 
+### Statistical Analysis 
 - Correlation coefficients and p-values for: 
   - Temperature and rented bike count.
   - Rainfall and rented bike count.
